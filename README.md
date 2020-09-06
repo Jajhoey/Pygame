@@ -1,2 +1,2 @@
 # Pygame
-# Requires Latest version of Python
+# Requires Latest version of Python and pygame
